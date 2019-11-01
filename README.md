@@ -1,4 +1,4 @@
-# node-express-mvc
+# mvc-app
 
 > Node.js and the Express web framework make it easy to build well-designed web apps using MVC
 
